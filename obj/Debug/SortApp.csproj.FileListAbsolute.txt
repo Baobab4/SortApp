@@ -1,0 +1,17 @@
+C:\Users\315\Desktop\sorting\SortApp\bin\Debug\SortApp.exe.config
+C:\Users\315\Desktop\sorting\SortApp\bin\Debug\SortApp.exe
+C:\Users\315\Desktop\sorting\SortApp\bin\Debug\SortApp.pdb
+C:\Users\315\Desktop\sorting\SortApp\bin\Debug\EntityFramework.dll
+C:\Users\315\Desktop\sorting\SortApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\315\Desktop\sorting\SortApp\bin\Debug\EntityFramework.xml
+C:\Users\315\Desktop\sorting\SortApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\315\Desktop\sorting\SortApp\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\315\Desktop\sorting\SortApp\obj\Debug\SortApp.csproj.AssemblyReference.cache
+C:\Users\315\Desktop\sorting\SortApp\obj\Debug\SortApp.Properties.Resources.resources
+C:\Users\315\Desktop\sorting\SortApp\obj\Debug\SortApp.csproj.GenerateResource.cache
+C:\Users\315\Desktop\sorting\SortApp\obj\Debug\SortApp.csproj.CoreCompileInputs.cache
+C:\Users\315\Desktop\sorting\SortApp\obj\Debug\SortApp.csproj.Up2Date
+C:\Users\315\Desktop\sorting\SortApp\obj\Debug\SortApp.exe
+C:\Users\315\Desktop\sorting\SortApp\obj\Debug\SortApp.pdb
+C:\Users\315\Desktop\sorting\SortApp\obj\Debug\SortApp.exe.config
+C:\Users\315\Desktop\sorting\SortApp\obj\Debug\SortApp.Form1.resources
